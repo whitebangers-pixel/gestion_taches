@@ -1,1 +1,1 @@
-print("Version A")
+print("Version finale A et B")
