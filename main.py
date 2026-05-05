@@ -1,4 +1,3 @@
 def main():
-    print( Bienvenue dans le gestionnaire de taches ")
+    print("Version A du programme")
 
-if __name__ == "__main__":
