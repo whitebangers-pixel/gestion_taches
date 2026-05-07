@@ -1,7 +1,5 @@
-def main():
-<<<<<<< HEAD
-    print("Version B du programme")
-=======
-    print("Version A du programme")
+def ajouter_tache():
+    print("Ajout d'une tâche")
 
->>>>>>> d6b7210fd070207a87cdbd0eda261dbc22ffdfbc
+def afficher_taches():
+    print("Liste des tâches")
